@@ -4,7 +4,7 @@ NafiseKamyab, 2
 Borji, 932
 FaegheArbabi, 22, @FaeghekhanOom
 Farzan, 914
-FatimaVakili, 0, @fatiw_vakili
+FatimaVakili, 60, @fatiw_vakili
 Ghazale, 25, @Ghzle_Bn
 HamidSarvari, 914
 Hesari, 21, @Sweet_life22
