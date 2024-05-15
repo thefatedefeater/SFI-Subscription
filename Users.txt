@@ -1,6 +1,5 @@
 AliDelbaz, 22, @A_Ali_1380
 VIP, 936
-NafiseKamyab, -5
 Borji, 925
 FaegheArbabi, 15, @FaeghekhanOom
 Farzan, 907
@@ -10,7 +9,6 @@ HamidSarvari, 907
 Hesari, 14, @Sweet_life22
 Melika, 12
 Mostafa, 907
-PedramHS, -1, @aghapedi8657
 PedramMinai, 165, @books_love_life
 maryamhajilo, 17, @maryam_hajiloo99
 Samira, 1
@@ -19,13 +17,14 @@ Mojtabakamyab, 23
 Ela, 23, @ela7675
 Tara, 28, @tara_ba
 Behnaz, 27
-PariaGhasemi, -1, @Paria_ghasemi
+PariaGhasemi, 29, @Paria_ghasemi
 Amirparnan, 4
 Mom, 916
 Deli, 14
 AtieKamyab, 12
-Rozhana, -1, @roozhanaa
+Faride, 0
 AlirezaSazegar, 2, @Sazegar_telegram
 Parham, 5
 ArashYousefi, 15
 Arnavaee, 21
+dd3rm, 4
