@@ -1,31 +1,30 @@
-AliDelbaz, 21, @A_Ali_1380
-VIP, 935
-Borji, 924
-FaegheArbabi, 14, @FaeghekhanOom
-Farzan, 906
-FatimaVakili, 82, @fatiw_vakili
-Ghazale, 17, @Ghzle_Bn
-HamidSarvari, 906
-Hesari, 13, @Sweet_life22
-Melika, 11
-Mostafa, 906
-PedramMinai, 164, @books_love_life
-maryamhajilo, 16, @maryam_hajiloo99
-Samira, 0
-Moshaverinia, 906
-Mojtabakamyab, 22
-Ela, 22, @ela7675
-Tara, 27, @tara_ba
-Behnaz, 26
-PariaGhasemi, 28, @Paria_ghasemi
-Amirparnan, 3
-Mom, 915
-Deli, 13
-AtieKamyab, 11
-Faride, -1
-AlirezaSazegar, 1, @Sazegar_telegram
-Parham, 4
-ArashYousefi, 14
-Arnavaee, 20
-dd3rm, 3
-Andishmand, 29
+AliDelbaz, 19, @A_Ali_1380
+VIP, 933
+Borji, 922
+FaegheArbabi, 12, @FaeghekhanOom
+Farzan, 904
+FatimaVakili, 80, @fatiw_vakili
+Ghazale, 15, @Ghzle_Bn
+HamidSarvari, 904
+Hesari, 11, @Sweet_life22
+Melika, 9
+Mostafa, 904
+PedramMinai, 162, @books_love_life
+maryamhajilo, 14, @maryam_hajiloo99
+Samira, -2
+Moshaverinia, 904
+Mojtabakamyab, 20
+Ela, 20, @ela7675
+Tara, 25, @tara_ba
+Behnaz, 24
+PariaGhasemi, 26, @Paria_ghasemi
+Amirparnan, 1
+Mom, 913
+Deli, 11
+AtieKamyab, 9
+AlirezaSazegar, 4, @Sazegar_telegram
+Parham, 2
+ArashYousefi, 12
+Arnavaee, 18
+dd3rm, 1
+Andishmand, 27
